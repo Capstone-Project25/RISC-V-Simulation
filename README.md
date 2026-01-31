@@ -1,4 +1,5 @@
 # RISC-V-Simulation
 Simulation of the Open Source ( RISC-V )  Processor
 <br> 
-Author-Uetians @ Ali Ahmed
+Author-Uetians @ Ali khattak
+
